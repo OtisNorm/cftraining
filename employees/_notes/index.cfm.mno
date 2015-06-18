@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_q" value="name:emp_no;datatype:,name:birth_date;datatype:,name:first_name;datatype:,name:last_name;datatype:,name:gender;datatype:,name:hire_date;datatype:" />
+</info>
